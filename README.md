@@ -1,3 +1,3 @@
 # Detrended correlation
 
-Some description
+Some description!
